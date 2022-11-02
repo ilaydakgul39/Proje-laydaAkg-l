@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.GirisFormu.resources
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.Properties.Resources.resources
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\bin\Debug\Proje2İlayAkgül.exe.config
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\bin\Debug\Proje2İlayAkgül.exe
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\bin\Debug\Proje2İlayAkgül.pdb
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.exe
+C:\Users\acer\Desktop\form uygulamaları\Proje2İlayAkgül\Proje2İlayAkgül\obj\Debug\Proje2İlayAkgül.pdb
